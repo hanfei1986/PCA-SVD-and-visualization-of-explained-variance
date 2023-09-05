@@ -1,4 +1,4 @@
-# PCA-and-visualization-of-explained-variance
+# PCA-SVD-and-visualization-of-explained-variance
 PCA or SVD reduces dimensionality of data by transforming the data into a lower-dimensional space. In this notebook a chart visualizes how much variance of the original data is picked up in the new components. The data transformation process is also explained.
 
 PCA：
